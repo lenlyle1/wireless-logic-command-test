@@ -5,8 +5,8 @@ I decided to write this in Laravel.
 
 ## Installation Instructions
 
-git clone git@github.com:lenlyle1/wireless-logic-command-test.git
-cd ./wireless-logic-command-test
+git clone git@github.com:lenlyle1/wireless-logic-command-test.git\n
+cd ./wireless-logic-command-test\n
 composer update
 
 ## Testing
